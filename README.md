@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/sJzfZsL.jpg" width="154">
-  <h1 align="center">InstaPy</h1>
+  <h1 align="center">InstaPy - k0mraid3 M.O.D</h1>
   <p align="center">Tooling that <b>automates</b> your social media interactions to “farm” Likes, Comments, and Followers on Instagram
 Implemented in Python using the Selenium module.<p>
   <p align="center">
@@ -25,11 +25,10 @@ Implemented in Python using the Selenium module.<p>
   </p>
 </p>
 
-[Twitter of InstaPy](https://twitter.com/InstaPy) | [Discord Channel](https://discord.gg/FDETsht) | [How it works (FreeCodingCamp)](https://www.freecodecamp.org/news/my-open-source-instagram-bot-got-me-2-500-real-followers-for-5-in-server-costs-e40491358340/) |   
+[How it works (FreeCodingCamp)](https://www.freecodecamp.org/news/my-open-source-instagram-bot-got-me-2-500-real-followers-for-5-in-server-costs-e40491358340/) |   
 [Talk about automating your Instagram](https://youtu.be/4TmKFZy-ioQ) | [Talk about doing Open-Source work](https://www.youtube.com/watch?v=A_UtST302Og&t=0s&list=PLa4P1NPX9hthXV-wko0xyxFpbhYZFkW7o) | [Listen to the "Talk Python to me"-Episode](https://talkpython.fm/episodes/show/142/automating-the-web-with-selenium-and-instapy)
 
 
-**Newsletter: [Sign Up for the Newsletter here!](http://eepurl.com/cZbV_v)**   
 **Guide to Bot Creation: [Learn to Build your own Bots](https://www.udemy.com/course/the-complete-guide-to-bot-creation/?referralCode=7418EBB47E11E34D86C9)**    
 
 <br />
